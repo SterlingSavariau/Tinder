@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF5523231A0C17D8004CA158 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF5523221A0C17D8004CA158 /* SignUpViewController.swift */; };
 		DFD9923F1A0AB568008767FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFD9923E1A0AB568008767FD /* AppDelegate.swift */; };
 		DFD992411A0AB568008767FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFD992401A0AB568008767FD /* ViewController.swift */; };
 		DFD992441A0AB568008767FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFD992421A0AB568008767FD /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DF5523221A0C17D8004CA158 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		DFD992391A0AB568008767FD /* Tinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFD9923D1A0AB568008767FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DFD9923E1A0AB568008767FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				DFD992401A0AB568008767FD /* ViewController.swift */,
+				DF5523221A0C17D8004CA158 /* SignUpViewController.swift */,
 				DFD9923E1A0AB568008767FD /* AppDelegate.swift */,
 				DFD992421A0AB568008767FD /* Main.storyboard */,
 				DFD992451A0AB568008767FD /* Images.xcassets */,
@@ -278,6 +281,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF5523231A0C17D8004CA158 /* SignUpViewController.swift in Sources */,
 				DFD992411A0AB568008767FD /* ViewController.swift in Sources */,
 				DFD9923F1A0AB568008767FD /* AppDelegate.swift in Sources */,
 			);
